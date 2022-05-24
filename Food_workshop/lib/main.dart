@@ -11,7 +11,7 @@ import 'navigator/project_navigation.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
-    statusBarColor: Colors.white,
+    statusBarColor: Colors.grey,
     statusBarIconBrightness: Brightness.dark
 
   ));
